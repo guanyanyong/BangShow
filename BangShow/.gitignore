@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+
+# Python 服务
+__pycache__/
+*.py[cod]
+service/weights.db
+service/weights.db-*
+service/.venv/
